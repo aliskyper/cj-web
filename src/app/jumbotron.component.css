@@ -1,0 +1,10 @@
+.bg-jumbotron {
+    background-image: url(../assets/jumbotron_w1920.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-origin: padding-box;
+    background-clip: padding-box;
+    background-size: cover;
+    color: white;
+    padding: 80px;
+}

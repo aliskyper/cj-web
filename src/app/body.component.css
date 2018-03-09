@@ -1,0 +1,13 @@
+.jumbotron-bg {
+    background-image: url(../assets/home.jpg);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    background-clip: padding-box;
+    background-size: cover;
+}
+.jumbotron-bg h1, p {
+    color: white;
+}
+.carousel-caption-fix {
+    padding-bottom: 120px;
+}

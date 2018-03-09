@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="37" height="20" viewBox="0 0 37 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 72px;
+      }
+
+      .cls-2 {
+        fill: #ff7c02;
+        font-family: "Broadway";
+      }
+    </style>
+  </defs>
+  <text transform="translate(0 17) scale(0.32 0.33)" class="cls-1"><tspan class="cls-2">HQ</tspan></text>
+</svg>

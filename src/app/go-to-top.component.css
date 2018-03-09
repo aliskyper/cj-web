@@ -1,0 +1,35 @@
+#gotoTop {
+    display: none;
+    position: fixed;
+    top: 80%;
+    left: 90%;
+    cursor: pointer;
+    padding: 4px 4px;
+    width: 50px;
+    border: 1px solid #e0e0e0;
+    background: #fff;
+    border-radius: 50px;
+    height: 50px;
+  }
+  
+  #gotoTop.hover {
+    background: #e0e0e0;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .arrow {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    border: 9px solid transparent;
+    border-bottom-color: #aaa;
+  }
+
+  .stick {
+    width: 8px;
+    height: 14px;
+    margin: 0 auto;
+    border-radius: 1px;
+    background-color: #aaa;
+  }
