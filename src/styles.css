@@ -1,2 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-body { padding-top: 50px; }
+/* body { padding-top: 50px; } */
+.bg-gray{
+    background-color: #C9C9C9; 
+}

@@ -1,4 +1,10 @@
-.logo {
-    margin-top: -10px;
-    height: 40px;
+
+.right-text {
+    border-left: 2px solid black
+}
+.navbar-inner {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    margin-bottom: 0;
 }
